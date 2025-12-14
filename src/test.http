@@ -1,0 +1,101 @@
+POST http://localhost:8080/api/sweets
+Content-Type: application/json
+
+{
+  "name": "Jalebi",
+  "category": "Indian",
+  "price": 15,
+  "quantity": 20
+}
+###
+POST http://localhost:8080/api/sweets
+Content-Type: application/json
+
+{
+  "name": "Rasgulla",
+  "category": "Indian",
+  "price": 18,
+  "quantity": 25
+}
+###
+POST http://localhost:8080/api/sweets
+Content-Type: application/json
+
+{
+  "name": "Gulab Jamun",
+  "category": "Indian",
+  "price": 22,
+  "quantity": 30
+}
+###
+POST http://localhost:8080/api/sweets
+Content-Type: application/json
+
+{
+  "name": "Kaju Katli",
+  "category": "Indian",
+  "price": 40,
+  "quantity": 15
+}
+###
+POST http://localhost:8080/api/sweets
+Content-Type: application/json
+
+{
+  "name": "Barfi",
+  "category": "Indian",
+  "price": 25,
+  "quantity": 18
+}
+###
+POST http://localhost:8080/api/sweets
+Content-Type: application/json
+
+{
+   "name":"Mysore Pak",
+   "category":"Indian",
+   "price": 30,
+   "quantity": 19
+}
+###
+POST http://localhost:8080/api/sweets
+Content-Type: application/json
+
+{
+  "name": "Soan Papdi",
+  "category": "Indian",
+  "price": 12,
+  "quantity": 40
+}
+###
+POST http://localhost:8080/api/sweets
+Content-Type: application/json
+
+{
+  "name": "Peda",
+  "category": "Indian",
+  "price": 20,
+  "quantity": 22
+}
+###
+POST http://localhost:8080/api/sweets
+Content-Type: application/json
+
+{
+  "name": "Modak",
+  "category": "Indian",
+  "price": 30,
+  "quantity": 16
+}
+###
+POST http://localhost:8080/api/sweets
+Content-Type: application/json
+
+{
+  "name": "Halwa",
+  "category": "Indian",
+  "price": 18,
+  "quantity": 35
+}
+
+
