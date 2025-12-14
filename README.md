@@ -64,7 +64,6 @@ GET http://localhost:8080/api/sweets
 
 ## 📌 Notes
 - Backend-only project
-- Built for company assessment
 - Clean layered architecture
 
 ## 👤 Author
